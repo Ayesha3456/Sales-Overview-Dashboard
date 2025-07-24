@@ -31,3 +31,5 @@ A dashboard in Tableau focusing on workforce trends, employee distribution, and 
 - Department-wise employee distribution  
 - Age and gender breakdown  
 - Performance metrics and tenure analysis
+
+<img width="903" height="511" alt="image" src="https://github.com/user-attachments/assets/ecac724d-2f90-4e83-a904-f381f9e3bf35" />
