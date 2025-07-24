@@ -14,12 +14,6 @@ This repository contains a **Sales Overview Dashboard** built in **Power BI**, p
 - **Pie Chart**: Order Priority Breakdown  
 - **Stacked Bar Chart**: Sales by State
 
-## 📁 Files Included
-
-- Power BI `.pbix` file
-- Sample dataset (optional)
-- Screenshots (optional)
-
 ---
 
 # 📈 HR Analytics Dashboard – Tableau
